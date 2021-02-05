@@ -1,7 +1,17 @@
-<p class="auto-style1">(Page Under Construction!)</p> 
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1 class="auto-style1">(Page Under Construction!)</h1> 
 <p>Home&nbsp;&nbsp;&nbsp; People&nbsp;&nbsp;&nbsp; <a href="publications.html">Publications</a></p>
 <hr />
-<p class="auto-style2"><strong>The Barnes Lab at Texas Tech University</strong></p>
+<h1 class="auto-style2"><strong>The Barnes Lab at Texas Tech University</strong></h1>
 
 <img src="LabPic_Oct2019.jpg" alt="The Barnes Lab at Texas Tech University">
 
