@@ -1,27 +1,3 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-<meta content="en-us" http-equiv="Content-Language" />
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Untitled 1</title>
-<style type="text/css">
-.auto-style1 {
-	text-align: center;
-	background-color: #FFFF00;
-}
-.auto-style2 {
-	font-size: xx-large;
-}
-.auto-style3 {
-	text-align: center;
-	font-size: large;
-}
-</style>
-</head>
-
-<body>
-
 <p class="auto-style1">(Page Under Construction!)</p>
 <p>Home&nbsp;&nbsp;&nbsp; People&nbsp;&nbsp;&nbsp; Publications</p>
 <hr />
@@ -40,9 +16,6 @@ predicting species occurrence with species distribution models and geographic
 information systems (GIS), detecting rare species through environmental DNA 
 (eDNA) surveillance, and investigating species impacts through field 
 observations and laboratory experiments. </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 </body>
 
