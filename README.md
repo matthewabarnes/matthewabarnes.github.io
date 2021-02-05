@@ -1,5 +1,5 @@
 <p class="auto-style1">(Page Under Construction!)</p> 
-<p>Home&nbsp;&nbsp;&nbsp; People&nbsp;&nbsp;&nbsp; Publications</p>
+<p>Home&nbsp;&nbsp;&nbsp; People&nbsp;&nbsp;&nbsp; <a href="publications.html">Publications</a></p>
 <hr />
 <p class="auto-style2"><strong>The Barnes Lab at Texas Tech University</strong></p>
 <p>Our&nbsp;research is&nbsp;rooted in community ecology, predicting and explaining 
