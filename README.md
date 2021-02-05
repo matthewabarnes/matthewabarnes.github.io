@@ -2,6 +2,9 @@
 <p>Home&nbsp;&nbsp;&nbsp; People&nbsp;&nbsp;&nbsp; <a href="publications.html">Publications</a></p>
 <hr />
 <p class="auto-style2"><strong>The Barnes Lab at Texas Tech University</strong></p>
+
+<img src="lab_pic.jpg" alt="The Barnes Lab at Texas Tech University">
+
 <p>Our&nbsp;research is&nbsp;rooted in community ecology, predicting and explaining 
 species distributions and dispersal in aquatic systems. We are&nbsp;particularly 
 interested in forecasting biological invasions– the movement of species beyond 
