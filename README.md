@@ -3,7 +3,7 @@
 <hr />
 <p class="auto-style2"><strong>The Barnes Lab at Texas Tech University</strong></p>
 
-<img src="lab_pic.jpg" alt="The Barnes Lab at Texas Tech University">
+<img src="LabPic_Oct2019.jpg" alt="The Barnes Lab at Texas Tech University">
 
 <p>Our&nbsp;research is&nbsp;rooted in community ecology, predicting and explaining 
 species distributions and dispersal in aquatic systems. We are&nbsp;particularly 
