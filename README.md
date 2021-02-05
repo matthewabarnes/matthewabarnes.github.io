@@ -23,4 +23,4 @@ observations and laboratory experiments. </p>
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <p>Copyright © Matthew Barnes. Last Update: February 2021.</p>
+            <p>Copyright © Matthew Barnes. All Rights Reserved.</p>
