@@ -1,17 +1,3 @@
-<head>
-<meta content="en-us" http-equiv="Content-Language" />
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Untitled 1</title>
-<style type="text/css">
-.auto-style1 {
-	text-align: center;
-	background-color: #FFFF00;
-}
-</style>
-</head>
-
-<body>
-
 <p class="auto-style1">(Page Under Construction!)</p>
 <p>Home&nbsp;&nbsp;&nbsp; People&nbsp;&nbsp;&nbsp; Publications</p>
 <p>The Barnes Lab at Texas Tech University</p>
