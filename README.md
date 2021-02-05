@@ -1,4 +1,4 @@
-<p class="auto-style1">(Page Under Construction!)</p>
+<p class="auto-style1">(Page Under Construction!)</p> 
 <p>Home&nbsp;&nbsp;&nbsp; People&nbsp;&nbsp;&nbsp; Publications</p>
 <hr />
 <p class="auto-style2"><strong>The Barnes Lab at Texas Tech University</strong></p>
