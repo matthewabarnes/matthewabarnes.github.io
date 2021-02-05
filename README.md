@@ -19,4 +19,8 @@ observations and laboratory experiments. </p>
 
 </body>
 
-</html>
+<footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © Matthew Barnes. All rights reserved.</p>
